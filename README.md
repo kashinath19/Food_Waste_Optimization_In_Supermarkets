@@ -28,7 +28,7 @@ dashboard.pbix 📈: Power BI file with visualizations (e.g., Total Cost by Cate
 
 ## 🚀 How to Use
 
-Clone the Repository:git clone https://github.com/Kashianth19/food_waste_optimization_in_supermarkets.git
+Clone the Repository:git clone https://github.com/Kashianth19/food_waste_optimization_in_supermarkets
 
 
 Explore the Dataset: Start with food_waste_optimization_in_supermarket_dataset.csv.
